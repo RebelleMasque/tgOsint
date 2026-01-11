@@ -18,6 +18,27 @@
   <img src="https://img.shields.io/badge/OSINT-Telegram-00ff88?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
 </p>
+<p align="center">
+  <!-- Communauté -->
+  <a href="https://chat.whatsapp.com/F9NbADb7L7v9SALfdBa9zq">
+    <img src="https://img.shields.io/badge/WhatsApp-Groupe-00ff88?style=for-the-badge&logo=whatsapp" alt="Groupe WhatsApp">
+  </a>
+
+  <a href="https://t.me/+cJv8pOd1Em40ZGFk">
+    <img src="https://img.shields.io/badge/Telegram-Cha%C3%AEne-00ff88?style=for-the-badge&logo=telegram" alt="Chaîne Telegram">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Contact développeur -->
+  <a href="https://wa.me/2250500581309">
+    <img src="https://img.shields.io/badge/Contacter-WhatsApp-00ff88?style=for-the-badge&logo=whatsapp" alt="Contacter le développeur WhatsApp">
+  </a>
+
+  <a href="https://t.me/Rebellemasque">
+    <img src="https://img.shields.io/badge/Contacter-Telegram-00ff88?style=for-the-badge&logo=telegram" alt="Contacter le développeur Telegram">
+  </a>
+</p>
 
 ---
 
