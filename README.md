@@ -94,8 +94,8 @@ Le script te les demandera automatiquement au lancement.
 
 ### 🔹 Installation rapide
 ```bash
-pip install --upgrade pip
-pip install telethon colorama asyncio
+pkg update && pkg upgrade
+pkg install python
 pip install -r requirements.txt
 git clone https://github.com/RebelleMasque/tgOsint.git
 cd tgOsint
