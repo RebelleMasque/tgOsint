@@ -57,9 +57,11 @@ sur des comptes Telegram à des **fins éducatives et d’analyse**.
 
 ## 🔑 Obtenir API ID & API Hash
 
-1. Aller sur le site développeur Telegram  
-2. Créer une application
-3. Récupérer :
+1. Aller sur le site développeur Telegram
+ https://my.telegram.org/auth
+connecter vous a vautre comptes
+3. Créer une application
+4. Récupérer :
    - `api_id`
    - `api_hash`
 
