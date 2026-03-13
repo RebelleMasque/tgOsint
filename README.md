@@ -96,7 +96,7 @@ Le script te les demandera automatiquement au lancement.
 ```bash
 pkg update && pkg upgrade
 pkg install python
-pip install -r requirements.txt
 git clone https://github.com/RebelleMasque/tgOsint.git
 cd tgOsint
+pip install -r requirements.txt
 python tgOsint.py
